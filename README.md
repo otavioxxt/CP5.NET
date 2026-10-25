@@ -5,14 +5,17 @@ API RESTful em **ASP.NET Core (.NET 8) com Controllers** que gerencia **Clientes
 ## Vídeo de demonstração
 (https://www.youtube.com/watch?v=h_8JFNtVq_s)
 
-## Integrantes
-Nome	RM
-Rodrigo Silva	565162
-Nickolas Davi	564105
-Samara Vilela	566133
-Natália Cristina	564099
-Otávio Ferreira	565960
-```
+## 👥 Integrantes
+
+| Integrante | RM |
+|:-----------|:--:|
+| Rodrigo Silva | 565162 |
+| Nickolas Davi | 564105 |
+| Samara Vilela | 566133 |
+| Natália Cristina | 564099 |
+| Otávio Ferreira | 565960 |
+
+**Turma:** 2TDSR · **Curso:** Análise e Desenvolvimento de Sistemas · **FIAP**
 CP5.sln
 ├── Presentation/CP5.API              -> Controllers, Program.cs, Doc/Samples (Swagger)
 ├── Application/CP5.Application       -> Dtos, Interfaces, Mappers, UseCases
