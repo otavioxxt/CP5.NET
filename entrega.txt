@@ -1,7 +1,10 @@
-Link do repositório público: <COLE AQUI O LINK DO GITHUB/AZURE DEVOPS>
-Link do vídeo de demonstração (máx. 5 min): <COLE AQUI O LINK DO VÍDEO>
+Link do repositório público: https://github.com/otavioxxt/CP5.NET
+Link do vídeo de demonstração (máx. 5 min): https://www.youtube.com/watch?v=h_8JFNtVq_s
 
-Integrantes (nome completo e RM):
-- <NOME COMPLETO> - RM<000000>
-- <NOME COMPLETO> - RM<000000>
-- <NOME COMPLETO> - RM<000000>
+
+Integrante	RM
+Rodrigo Silva	565162
+Nickolas Davi	564105
+Samara Vilela	566133
+Natália Cristina 564099
+Otávio Ferreira	565960
