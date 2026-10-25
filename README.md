@@ -3,15 +3,15 @@
 API RESTful em **ASP.NET Core (.NET 8) com Controllers** que gerencia **Clientes**, com seus **Produtos**, **Cursos** e **Estado**, aplicando Clean Architecture, Operation Result, Erros Customizados, consumo de serviço externo (ViaCEP), PageResult, HATEOAS e autenticação/autorização com JWT.
 
 ## Vídeo de demonstração
-<COLE AQUI O LINK DO VÍDEO (máx. 5 min)>
+(https://www.youtube.com/watch?v=h_8JFNtVq_s)
 
 ## Integrantes
-| Nome completo | RM |
-|---|---|
-| <NOME> | <RM> |
-
-## Arquitetura
-
+Nome	RM
+Rodrigo Silva	565162
+Nickolas Davi	564105
+Samara Vilela	566133
+Natália Cristina	564099
+Otávio Ferreira	565960
 ```
 CP5.sln
 ├── Presentation/CP5.API              -> Controllers, Program.cs, Doc/Samples (Swagger)
