@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="coverlet.collector" Version="6.*" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="8.*" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.*" />
+    <PackageReference Include="Moq" Version="4.20.*" />
+    <PackageReference Include="xunit" Version="2.*" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.*" />
+  </ItemGroup>
+  <ItemGroup>
+    <Using Include="Xunit" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\CP5.Domain\CP5.Domain.csproj" />
+    <ProjectReference Include="..\..\Application\CP5.Application\CP5.Application.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\CP5.Infrastructure\CP5.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Presentation\CP5.API\CP5.API.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <!-- Mesma configuração (ConnectionStrings:Oracle e Secretkey) usada pela aplicação -->
+    <Content Include="..\..\Presentation\CP5.API\appsettings.Development.json" Link="appsettings.Development.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+Link do repositório público: <COLE AQUI O LINK DO GITHUB/AZURE DEVOPS>
+Link do vídeo de demonstração (máx. 5 min): <COLE AQUI O LINK DO VÍDEO>
+
+Integrantes (nome completo e RM):
+- <NOME COMPLETO> - RM<000000>
+- <NOME COMPLETO> - RM<000000>
+- <NOME COMPLETO> - RM<000000>

@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/Application/">
+    <Project Path="Application/CP5.Application/CP5.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="Domain/CP5.Domain/CP5.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/CP5.Infrastructure/CP5.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Presentation/CP5.API/CP5.API.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/CP5.Tests/CP5.Tests.csproj" />
+  </Folder>
+</Solution>
